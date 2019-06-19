@@ -348,7 +348,7 @@ def pix_to_curvilinear(qs_index,pix_index):
     
     """
     
-    Function: returns the pixel indices of curvilinear coordinates on a face
+    Function: returns the curvilinear coordinates of pixel indices
     
     Arguments
     ---------
