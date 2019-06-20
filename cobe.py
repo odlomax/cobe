@@ -421,7 +421,7 @@ def tangent_to_curvilinear(x,y):
     Result
     ------
     X,Y: float
-        curilinear X Y coords
+        curvilinear X Y coords
         
     """
     
@@ -475,7 +475,7 @@ def curvilinear_to_tangent(X,Y):
     ---------
     
     X,Y: float
-        curilinear X Y coords
+        curvilinear X Y coords
         
     Result
     ------
